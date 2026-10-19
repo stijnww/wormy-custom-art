@@ -9,7 +9,7 @@ from pygame.locals import *
 winner1 = 0
 winner2 = 0   
 winner3 = 0
-FPS = 200
+FPS = 15
 WINDOWWIDTH = 1200
 WINDOWHEIGHT = 600
 CELLSIZE = 20
